@@ -1,0 +1,7 @@
+requests
+selene>=2.0.0rc4
+openpyxl
+pypdf
+selenium
+pytest
+webdriver-manager
